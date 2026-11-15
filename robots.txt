@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://visualslabs.github.io/visual-labs/sitemap.xml
